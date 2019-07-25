@@ -1,0 +1,5 @@
+com\cdk\shoppingcart\demo\model\CustomerTypeMapping.class
+com\cdk\shoppingcart\demo\model\Customer.class
+com\cdk\shoppingcart\demo\model\CustomerType.class
+com\cdk\shoppingcart\demo\ShoppingcartApplication.class
+com\cdk\shoppingcart\demo\ServletInitializer.class
